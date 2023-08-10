@@ -12,4 +12,6 @@ Generated dataset of global VLBI solution of celestial pole offsets, containing 
 5. Lines 12104-20233: the values of dY component of celestial pole offset and their associated uncertainty  
    4.1 column 1: modified julian date  
    4.2 column 2: dY  
-   4.3 column 3: formal error of dY  
+   4.3 column 3: formal error of dY
+
+# credit to [Maria Karbon](https://www.researchgate.net/profile/Maria-Karbon) for generating the data
